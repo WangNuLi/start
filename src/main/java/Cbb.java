@@ -4,4 +4,5 @@ public class Cbb {
     private  String nml;
     private  String age;
     private  int bb;
+    private int ss;
 }
